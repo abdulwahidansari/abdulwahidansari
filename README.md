@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdul Wahid</h1>
+
 <h3 align="center">In the world of bits and bytes, where art meets science, I found my passion As code is my canvas for crafting masterpieces!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwahidansari&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwahidansari" /> </p>
